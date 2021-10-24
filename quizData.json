@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Can you access Cookie using javascript?",
+    "a": "true",
+    "b": "false",
+    "c": "-",
+    "d": "-",
+    "correct": "a",
+    "explanation": "Yes! JavaScript can also manipulate cookies using the cookie property of the Document object."
+  },
+  {
+    "question": "How can you get the type of arguments passed to a function?",
+    "a": "using typeof operator",
+    "b": "using getType function",
+    "c": "both of the above",
+    "d": "none of the above",
+    "correct": "a",
+    "explanation": "Using typeof operator, we can get the type of arguments passed to a function."
+  },
+  {
+    "question": "Which built-in method calls a function for each element in the array?",
+    "a": "while()",
+    "b": "loop()",
+    "c": "forEach()",
+    "d": "None of the above",
+    "correct": "c",
+    "explanation": "forEach() method calls a function for each element in the array."
+  },
+  {
+    "question": "Which built-in method returns the string representation of the number's value?",
+    "a": "toValue()",
+    "b": "toNumber()",
+    "c": "toString()",
+    "d": "None of the above",
+    "correct": "c",
+    "explanation": "toString() method returns the string representation of the number's value."
+  },
+  {
+    "question": "Which of the following function of Number object returns the number's value?",
+    "a": "toString()",
+    "b": "valueOf()",
+    "c": "toLocaleString()",
+    "d": "toPrecision()",
+    "correct": "b",
+    "explanation": "valueOf() − Returns the number's value."
+  },
+  {
+    "question": "Which of the following function of String object returns the characters in a string between two indexes into the string?",
+    "a": "slice()",
+    "b": "split()",
+    "c": "substr()",
+    "d": "substring()",
+    "correct": "d",
+    "explanation": "substring() − Returns the characters in a string between two indexes into the string."
+  },
+  {
+    "question": "Which of the following function of String object returns the primitive value of the specified object.",
+    "a": "toLocaleUpperCase()",
+    "b": "toUpperCase()",
+    "c": "toString()",
+    "d": "valueOf()",
+    "correct": "d",
+    "explanation": "valueOf() − Returns the primitive value of the specified object."
+  },
+  {
+    "question": "Which of the following function of String object causes a string to be displayed as a superscript, as if it were in a <sup> tag?",
+    "a": "sup()",
+    "b": "small()",
+    "c": "strike()",
+    "d": "sub()",
+    "correct": "a",
+    "explanation": "sup() − Causes a string to be displayed as a superscript, as if it were in a <sup> tag."
+  },
+  {
+    "question": "Which of the following function of Array object applies a function simultaneously against two values of the array (from left-to-right) as to reduce it to a single value?",
+    "a": "pop()",
+    "b": "push()",
+    "c": "reduce()",
+    "d": "reduceRight()",
+    "correct": "c",
+    "explanation": "reduce() − Applies a function simultaneously against two values of the array (from left-to-right) as to reduce it to a single value."
+  },
+  {
+    "question": "Which of the following function of Array object removes the first element from an array and returns that element?",
+    "a": "reverse()",
+    "b": "shift()",
+    "c": "slice()",
+    "d": "some()",
+    "correct": "b",
+    "explanation": "shift() − Removes the first element from an array and returns that element."
+  }
+]
